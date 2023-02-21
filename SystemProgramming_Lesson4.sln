@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RaceCondition", "RaceCondit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadSafeSingleton", "ThreadSafeSingleton\ThreadSafeSingleton.csproj", "{987EFF12-BAFC-4A07-BD59-F2E9F92DAC6D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deadlock", "Deadlock\Deadlock.csproj", "{FDAA37BD-E908-4F8B-9F6F-8346FB51442A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{987EFF12-BAFC-4A07-BD59-F2E9F92DAC6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{987EFF12-BAFC-4A07-BD59-F2E9F92DAC6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{987EFF12-BAFC-4A07-BD59-F2E9F92DAC6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDAA37BD-E908-4F8B-9F6F-8346FB51442A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDAA37BD-E908-4F8B-9F6F-8346FB51442A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDAA37BD-E908-4F8B-9F6F-8346FB51442A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDAA37BD-E908-4F8B-9F6F-8346FB51442A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
